@@ -41,6 +41,8 @@
 
 \begin{itemize}
 
+\item{\cventry{Conclusão em 2027}[Mestrado em Astronomia}{Observatório do Valongo,UFRJ}{}{}{\vspace{3pt}}
+
 \item{\cventry{Conclusão em 2025}{Bacharelado em Astronomia}{UFRJ}{}{}{\vspace{3pt}}
 
 \item{\cventry{Conclusão em 2019}{Bacharelado em Ciências Sociais}{UERJ}{}{}{\vspace{3pt}}
