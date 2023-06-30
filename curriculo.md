@@ -64,7 +64,7 @@
 \small{(auxílio no processo de publicação de livros e periódicos científicos da editora)}
 \vspace{5pt}
 
-\item{\cventry{Desde 2023}{Iniciação científica em Astronomia Extragalática}{LASEX}{Observatório do Valongo}{\textit{UFRJ}}{}} 
+\item{\cventry{2023 a 2025}{Iniciação científica em Astronomia Extragalática}{LASEX}{Observatório do Valongo}{\textit{UFRJ}}{}} 
 
 \small{(pesquisa em projeto de radioastronomia envolvendo The TolTEC Camera, sob orientação de Thiago Signorini Gonçalves, Ph.D)}
 
