@@ -87,7 +87,7 @@
 
 \begin{itemize}
 
-\item \textbf{Linguagem de programação:} Python.
+\item \textbf{Linguagem de programação:} Python, Latex, C/C++.
 
 \vspace{6pt}
 
@@ -99,7 +99,7 @@
 
 \vspace{6pt}
 
-\item \textbf{Eventos:} Participação na organização de palestras promovidas pelo Laboratório de Políticas Públicas da UERJ (2015 a 2017); participação na organização do V Encontro de Astrobiologia (2019); participação como ouvinte em cursos e congressos de Astronomia, como Fourth Astrobiology School at Observatório Nacional (2022) e Escola de Inverno em Astrofísica (2022).
+\item \textbf{Eventos:} Participação com apresentação de pôsteres na SIAC (2024 e 2025), SAB (2024 e 2025); participação como ouvinte em cursos e congressos de Astronomia, como Fourth Astrobiology School at Observatório Nacional (2022) e Escola de Inverno em Astrofísica (2022, 2023, 2024); participação na organização do V Encontro de Astrobiologia (2019).
 
 \end{itemize}
 
