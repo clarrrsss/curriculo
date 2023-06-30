@@ -10,9 +10,7 @@
 
 \usepackage{import}
 
-
 \name{Maria Clara}{Oliveira}
-
 
 \address{Tijuca, Rio de Janeiro - RJ}{}{}
 
@@ -31,7 +29,7 @@
 
 \vspace{6pt}
 
-\small{Interesse em participar de projetos que envolvam as diferentes áreas da Astronomia, além de outras ciências exatas, da Terra e computação. Interesse nas possíveis intersecções entre essas áreas e as ciências sociais.}
+\small {Interesse em ingressar no programa de Doutorado da ESO, European Southern Observatory. Interesse em contribuir para projetos diversos que envolvam as diferentes áreas da Astronomia, além de outras ciências exatas, da Terra e computação. Interesse nas possíveis intersecções entre essas áreas e as ciências sociais.}
 
 \vspace{6pt}
 
@@ -41,17 +39,16 @@
 
 \begin{itemize}
 
-\item{\cventry{Desde 2028}[Doutorado em Astronomia}{European Southern Observatory(ESO)}{}{}{\vspace{3pt}}
+\item{\cventry{Conclusão em 2028}[Mestrado em Astronomia}{Observatório do Valongo, UFRJ)}{}{}{\vspace{3pt}}
+\small{(com perídodo sanduíche na NASA - Goddard Space Flight)}
 
-\item{\cventry{Conclusão em 2027}[Mestrado em Astronomia}{Observatório do Valongo,UFRJ}{}{}{\vspace{3pt}}
-
-\item{\cventry{Conclusão em 2025}{Bacharelado em Astronomia}{UFRJ}{}{}{\vspace{3pt}}
+\item{\cventry{Conclusão em 2026}{Bacharelado em Astronomia}{UFRJ}{}{}{\vspace{3pt}}
 
 \item{\cventry{Conclusão em 2019}{Bacharelado em Ciências Sociais}{UERJ}{}{}{\vspace{3pt}}
 
 \end{itemize}
 
-\section{Experiências profissionais recentes}
+\section{Experiências diversas}
 
 \vspace{5pt}
 
@@ -59,25 +56,14 @@
 
 \begin{itemize}
 
+\item{\cventry{2023 a 2026}{Iniciação científica em Astronomia Extragalática}{LASEX}{Observatório do Valongo}{\textit{UFRJ}}{}}
+
 \item{\cventry{Desde 2023}{Técnico Universitário}{Assistente Editorial}{EdUERJ}{\textit{UERJ}}{}}
 
 \small{(auxílio no processo de publicação de livros e periódicos científicos da editora)}
 \vspace{5pt}
 
-\item{\cventry{2023 a 2025}{Iniciação científica em Astronomia Extragalática}{LASEX}{Observatório do Valongo}{\textit{UFRJ}}{}} 
-
-\small{(pesquisa em projeto de radioastronomia envolvendo The TolTEC Camera, sob orientação de Thiago Signorini Gonçalves, Ph.D)}
-
-
 \end{itemize}
-
-\vspace{6pt}
-
-\section{Experiências profissionais anteriores}
-
-\vspace{6pt}
-
-\small{Quanto à experiências passadas, cabe citar: estágios em Ciências Sociais em instituições como Arquivo Nacional, Laboratório de Políticas Públicas da UERJ e Instituto de Estudos Sociais e Políticos da UERJ; atuação em atendimento ao público em comércio varejista.}
 
 \vspace{6pt}
 
@@ -95,11 +81,11 @@
 
 \vspace{6pt}
 
-\item \textbf{Idiomas:} Inglês avançado; espanhol básico.
+\item \textbf{Idiomas:} Inglês fluente; espanhol básico.
 
 \vspace{6pt}
 
-\item \textbf{Eventos:} Participação com apresentação de pôsteres na SIAC (2024 e 2025), SAB (2024 e 2025); participação como ouvinte em cursos e congressos de Astronomia, como Fourth Astrobiology School at Observatório Nacional (2022) e Escola de Inverno em Astrofísica (2022, 2023, 2024); participação na organização do V Encontro de Astrobiologia (2019).
+\item \textbf{Eventos:} Participação com apresentação de pôsteres na SIAC (2024, 2025 e 2026), SAB (2024, 2025 e 2026); participação como ouvinte em cursos e congressos de Astronomia, como edições da Astrobiology School at Observatório Nacional e Escola de Inverno em Astrofísica; participação na organização do V Encontro de Astrobiologia (2019).
 
 \end{itemize}
 
