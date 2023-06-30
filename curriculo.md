@@ -41,6 +41,8 @@
 
 \begin{itemize}
 
+\item{\cventry{Desde 2028}[Doutorado em Astronomia}{European Southern Observatory(ESO)}{}{}{\vspace{3pt}}
+
 \item{\cventry{Conclusão em 2027}[Mestrado em Astronomia}{Observatório do Valongo,UFRJ}{}{}{\vspace{3pt}}
 
 \item{\cventry{Conclusão em 2025}{Bacharelado em Astronomia}{UFRJ}{}{}{\vspace{3pt}}
